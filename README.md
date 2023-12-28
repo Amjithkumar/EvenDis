@@ -23,6 +23,6 @@ A website for publishing and providing registration facilities for variety of ev
 4. Use 'Admin' instead of 'event' in  the url to access the admin page.To enter into the admin page you need enter a login id and password.
 
     ID : admin
-    password : admin
+    <br>password : admin
    
 By the admin page you can give the normal users administrative privileges.
